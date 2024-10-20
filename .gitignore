@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+
+# Build artifacts
+bin/
+obj/
+Debug/
+Release/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+
+# Logs
+*.log
+
+# Database
+*.mdf
+*.ldf
+
+# Local development settings
+launchSettings.json
+
+# Configuration files
+appsettings.Development.json
+appsettings.json
